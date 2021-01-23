@@ -12,7 +12,7 @@ Tonight's title card, which was revealed when I removed the Top Tunes box from t
 
 Which fits, given the effect the pandemic has had on all of us. Looking out my window at an empty San Francisco street, and looking through the window at the back of the jukebox into the inner workings of a neglected relic.
 
-![Looking Through The Back Window](/assets/images/20210122_210126_.jpg)
+![Looking Through The Back Window](/assets/images/20210122_210126.jpg)
 
 This sort of thing is endlessly entertaining for me. These machines were made with maintenance in mind. Just like your source code should be. If changes in jukebox music media hadn't obsolesced the 45, so many more of these would have survived, simply because maintenance was such a straightforward process. The relationship of the object to its owner was different in 1963 than what we have in 2021, if we can infer anything from the care and attention paid to the maintenance and repair tasks required to keep this machine in good running order. Now, we just throw broken things away and get all new things. Repair is seldom demed worth the effort, and complex components or entire appliances are sent to the landfill. What a waste. There's satisfaction in taking good care of what you have, in keeping a well-made machine in serviceable condition. Modern products largely deny us this satisfaction in favor of completely disposeable products. The entire thing is a consumable. 
 
@@ -22,9 +22,9 @@ Oddly enough, this jukebox reminds me of my grandmother's oven. It was an enamel
 
 Looking into the back, and finding more of that lovely patina of age and neglet. The Top Tunes selector control box cleaned up at least well enough to read the labels, and getting that particular part removed and reinstalled was fast enough. 
 
-![Wurlitzer 2710 Top Tunes selector control box](/assets/images/20210122_172129_.jpg)
+![Wurlitzer 2710 Top Tunes selector control box](/assets/images/20210122_172129.jpg)
 
-![Wurlitzer 2710 Top Tunes selector control box cleaned and installed](/assets/images/20210122_184821_.jpg)
+![Wurlitzer 2710 Top Tunes selector control box cleaned and installed](/assets/images/20210122_184821.jpg)
 
 That was quicker than expected. Let's go ahead and see what's going on with the amp.
 
