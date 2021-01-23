@@ -14,7 +14,7 @@ Finally got the Wurlitzer moved upstairs and while assessing the work, a message
 
 ![Wurlitzer 2710 Top Hits Button](/assets/images/20210118_211308.jpg)
 
-The "Top Hits" button is definitely dead.
+The "Top Tunes" button is definitely dead.
 
 ![Wurlitzer 2710 Top Hits Button Mechanism](/assets/images/20210118_211218.jpg)
 
