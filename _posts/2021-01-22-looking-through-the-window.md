@@ -42,7 +42,7 @@ And if you think that's rough...
 
 And now I have a dustbuster full of antique spider parts.
 
-I was a little concerned with the dust on the vacuum tubes. Knowing they get hot when in operation, this seemed like a situation where they wouldn't last long in operation. 
+I was a little concerned with the dust on the vacuum tubes. Knowing they get hot when in use, this seemed like a situation where they wouldn't last long with all that dust caked on them. 
 
 Glass shines up much better than the rusted metal around it:
 
