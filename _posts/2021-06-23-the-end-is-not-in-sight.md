@@ -14,11 +14,11 @@ Thanks to Harold Hagen in Seattle, the amp is back and in working order... and m
 
 ![Wurlitzer 2710 Amp](/assets/images/20210623_3.jpg)
 
-On to the next issue... the tone arm was to stiff to track on the vinyl. The trick here is to remove the tonearm and libricate the contact point where the tonearm pivots:
+On to the next issue... the tone arm was too stiff to track on the vinyl. The trick here is to remove the tonearm and lubricate the contact point where the tonearm pivots:
 
 ![Wurlitzer 2710 tonearm](/assets/images/20210623_4.jpg)
 
-So the jukebox now has a fresh amp and the tonearm tracks records nicely. Unfortiunately, the sound is muffled. Swapping out the needle didn't fix it either. Digging a little deeper, the speakers are dirty, water-damaged, and perforated in places. Explains the muffled sound. I am beginning to think that at some point in the life of this jukebox, there must have been an night out on the porch in a hurricane.
+So the jukebox now has a fresh amp and the tonearm tracks records nicely. Unfortunately, the sound is muffled. Swapping out the needle didn't fix it either. Digging a little deeper, the speakers are dirty, water-damaged, and perforated in places. Explains the muffled sound. I am beginning to think that at some point in the life of this jukebox, there must have been a night out on the porch in a hurricane.
 
 ![Wurlitzer 2710 speakers](/assets/images/20210623_6.jpg)
 
